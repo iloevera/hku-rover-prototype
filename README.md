@@ -2,7 +2,7 @@
 
 Rudimentary all-in-one Power Distribution Board (PDB) and logic carrier designed for small 6-wheel rovers with a 4-DoF robotic arm.
 
-<img width="1780" height="1452" alt="image" src="https://github.com/user-attachments/assets/e5cb269d-8c9c-4116-911c-c81a1bf6fe01" />
+![PCB View](https://github.com/user-attachments/assets/a0ab9e0c-661f-42ac-b896-66963318b3d0)
 
 ## 🚀 Key Specifications
 - **Power Input:** 6S LiPo (22.2V nominal, 25.2V max) via XT60.
