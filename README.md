@@ -2,14 +2,15 @@
 
 Rudimentary all-in-one Power Distribution Board (PDB) and logic carrier designed for small 6-wheel rovers with a 4-DoF robotic arm.
 
-![PCB View](https://github.com/user-attachments/assets/e2557c1a-6b96-4ed0-a2be-bc6d23514d5d)
+![PCB View](https://github.com/user-attachments/assets/c2cb923e-3e90-4dca-923e-18bde42a1673)
 
 ## 🚀 Key Specifications
+- **Dimensions:** 97.0 x 77.4 mm
 - **Power Input:** 6S LiPo (22.2V nominal, 25.2V max) via XT60.
 - **Power Tree:**
   - **12V @ 30A:** High-current rail for BLDC/DC Main Drive motors. External module attached through XT30 connectors
   - **7.5V @ 5A:** Dedicated HV Servo rail (Optimized for 7.4V nominal servos). External module attached through XT30 connectors
-  - **5.1V @ 5A:** SOn-board stabilized logic power for Pi 5 and peripherals. 3V3 Using Pico's built-in regulator.
+  - **5.1V @ 5A:** On-board stabilized logic power for Pi 5 and peripherals. 3V3 Using Pico's built-in regulator.
 - **Processing:**
   - Dual-core architecture: Raspberry Pi 5 (Thinking) + Pi Pico 2 (Doing).
   - High-speed UART communication bridge.
