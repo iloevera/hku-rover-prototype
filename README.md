@@ -2,7 +2,7 @@
 
 Rudimentary all-in-one Power Distribution Board (PDB) and logic carrier designed for small 6-wheel rovers with a 4-DoF robotic arm.
 
-![PCB View](https://github.com/user-attachments/assets/c2cb923e-3e90-4dca-923e-18bde42a1673)
+![Untitled design (4)](https://github.com/user-attachments/assets/ce2d2789-8002-419a-a3da-171ceb91e79b)
 
 ## 🚀 Key Specifications
 - **Dimensions:** 97.0 x 77.4 mm
