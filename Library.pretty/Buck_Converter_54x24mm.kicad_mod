@@ -3,11 +3,23 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.1 0.6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "310f1248-3c42-4b12-a930-d1268a33e4c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
 	(property "Value" "Buck_Converter_54x24mm"
 		(at 0 2.1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "aa5ae7ec-79a5-4554-8772-1cce74d8e15e")
+		(uuid "f8a53ffe-3fe5-4990-9758-2cfa3daa832f")
 		(effects
 			(font
 				(size 1 1)
@@ -20,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5410801f-a104-4cc7-bd8e-51fba952ecbf")
+		(uuid "0f9eaeb7-9e50-42c6-a16b-a91393314d39")
 		(effects
 			(font
 				(size 1 1)
@@ -33,23 +45,11 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "cc2f6b77-3b0e-4acf-b280-1585081a9077")
+		(uuid "8f14c8ce-92ea-4b08-a66b-7c1b4858a26d")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-		)
-	)
-	(property "Reference" "REF**"
-		(at 0.1 0.6 0)
-		(unlocked yes)
-		(layer "F.SilkS")
-		(uuid "01c56748-d750-4315-af6e-04b7e67cf2c0")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
 			)
 		)
 	)
